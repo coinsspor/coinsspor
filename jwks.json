@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "greenid-key-1",
+      "alg": "RS256",
+      "n": "wL8I53bh3L_t2kRet86KhnMVXnOqy1wR9shkClyDujeWltIZQqFz5hzOlDHJXqZO3LLTQIs4_ly3xatpu_3rcUlfmQ3eGdNw44s0UbVebtdzKblGS-I8qRovjCocxF9Y6OtRQheVnryYZLw_g3XZyuqCTU0fTXjQ6XjTWDn2-oen6MjeHp62XLZ1dvNN2JiRGeJkCjlIADp-YA0zE0FxsqddhaGt32ppUecPRJqhojDY2ZDZ-MjpX4R2bqTEUGC9ekDUxkIiw4NcAQ1Ez_4wLVJ5U054HGKGtG8gKZUKnTc9IkR5mR5-K02cMdQKSaldK39ZonZk4l7sGDgAIpc3ew",
+      "e": "AQAB"
+    }
+  ]
+}
